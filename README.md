@@ -38,7 +38,7 @@ My work sits at the intersection of AI and business operations — identifying t
 
 ## Currently building
 
-**[StrideTС](https://stridetc.com)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/tc-agent?style=flat-square&color=58A6FF&labelColor=0d1117)  
+**[StrideTС](https://stridetc.com)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/stridetc?style=flat-square&color=58A6FF&labelColor=0d1117)  
 Transaction coordination platform for real estate brokers. One platform brokers buy, TCs run, and agents use — every deal tracked, every document routed, every deadline visible from contract to close. AI-drafted communications, integrated document signing, and broker-level portfolio analytics. Targeting broker pilots Q3 2026.
 
 ---

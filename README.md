@@ -36,25 +36,26 @@ My work sits at the intersection of AI and business operations — identifying t
 
 ---
 
-## Projects in production
+## Currently building
 
-**[Street Insights](https://github.com/patrickboxfordpartners/streetinsights)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/streetinsights?style=flat-square&color=58A6FF&labelColor=0d1117)  
-Stock sentiment platform that scans social media, extracts AI-analyzed predictions, and validates them against real market outcomes. Credibility-weighted source scoring so signal rises above noise.
+**[StrideTС](https://stridetc.com)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/tc-agent?style=flat-square&color=58A6FF&labelColor=0d1117)  
+Transaction coordination platform for real estate brokers. One platform brokers buy, TCs run, and agents use — every deal tracked, every document routed, every deadline visible from contract to close. AI-drafted communications, integrated document signing, and broker-level portfolio analytics. Targeting broker pilots Q3 2026.
+
+---
+
+## Projects in production
 
 **[TitleWise](https://github.com/patrickboxfordpartners/titlewise)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/titlewise?style=flat-square&color=58A6FF&labelColor=0d1117)  
 AI tooling for real estate closing attorneys. Automates status updates, title commitment analysis, and document workflows. 30+ minutes saved per file. Real attorneys. Real closings.
+
+**[Street Insights](https://github.com/patrickboxfordpartners/streetinsights)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/streetinsights?style=flat-square&color=58A6FF&labelColor=0d1117)  
+Stock sentiment platform that scans social media, extracts AI-analyzed predictions, and validates them against real market outcomes. Credibility-weighted source scoring so signal rises above noise.
 
 **[Market Signals](https://github.com/patrickboxfordpartners/market-signals-landing)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/market-signals-landing?style=flat-square&color=58A6FF&labelColor=0d1117)  
 Marketing and waitlist for a stock sentiment product. Astro + Tailwind + Supabase.
 
 **[API Contract Validator](https://github.com/patrickboxfordpartners/api-contract-validator)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/api-contract-validator?style=flat-square&color=58A6FF&labelColor=0d1117)  
 CLI tool that validates live API responses against OpenAPI specs. Catches drift and breaking changes before they reach production.
-
----
-
-## Currently building
-
-Deeper automation across the real estate closing workflow in TitleWise. Open to interesting freelance projects — especially ones with a real problem, real users, and a team that ships.
 
 ---
 

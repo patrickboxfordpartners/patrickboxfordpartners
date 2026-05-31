@@ -3,7 +3,7 @@
 <h1 align="center">Patrick Mitchell</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+TypeScript+developer;AI+tools+for+real+business+workflows;Production+software+%E2%80%94+real+data%2C+real+cashflow%2C+real+users" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+TypeScript+developer;Production+software+for+real+estate+%26+finance;Real+data%2C+real+cashflow%2C+real+people+in+the+loop" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,17 +22,24 @@ I build software that solves real business problems. Not demo apps or portfolio 
 
 Based in San Francisco. Full-stack TypeScript, end-to-end ownership, single point of contact from schema design to deployment.
 
----
-
-## What I build
-
-My work sits at the intersection of AI and business operations — identifying the judgment-heavy, repetitive processes that slow teams down and building software that handles the routine automatically while keeping humans in control of what actually matters.
-
 **Stack**
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,supabase,tailwind,vercel&theme=dark" />
 </p>
+
+---
+
+## Deep vertical: real estate & mortgage
+
+I've built production software across the entire real estate transaction lifecycle — from the moment a buyer searches for an agent through pre-qualification, transaction coordination, and closing. That's not a coincidence; it's where the operational pain is and where automation actually moves money.
+
+| Stage | Product | Who it serves |
+|-------|---------|---------------|
+| Lead generation & visibility | [Gravitas Index](https://github.com/patrickboxfordpartners/gravitasindex) | Realtors — entity search + voice AI |
+| Mortgage pre-qualification | [Meetingplace Pre-Qual](https://github.com/patrickboxfordpartners/meetingplace-prequal) | Loan officers — automated letter generation |
+| Transaction coordination | [StrideTС](https://stridetc.com) | Brokers, TCs, agents — contract to close |
+| Title & closing | [TitleWise](https://github.com/patrickboxfordpartners/titlewise) | Closing attorneys — document automation |
 
 ---
 
@@ -45,14 +52,17 @@ Transaction coordination platform for real estate brokers. One platform brokers 
 
 ## Projects in production
 
+**[Gravitas Index](https://github.com/patrickboxfordpartners/gravitasindex)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/gravitasindex?style=flat-square&color=58A6FF&labelColor=0d1117)  
+Entity search and credibility intelligence platform for real estate professionals. Integrates with voice AI systems to help realtors dominate Google's entity search — structured data pipelines, credibility scoring, and automated lead capture. Apify, Kafka, Sanity, Stripe, PostHog.
+
 **[TitleWise](https://github.com/patrickboxfordpartners/titlewise)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/titlewise?style=flat-square&color=58A6FF&labelColor=0d1117)  
 AI tooling for real estate closing attorneys. Automates status updates, title commitment analysis, and document workflows. 30+ minutes saved per file. Real attorneys. Real closings.
 
+**[Meetingplace Pre-Qual](https://github.com/patrickboxfordpartners/meetingplace-prequal)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/meetingplace-prequal?style=flat-square&color=58A6FF&labelColor=0d1117)  
+Internal tool for a mortgage company's loan officers — generates branded pre-qualification letters, real-time PDF preview, automated delivery to borrowers and realtors via Postmark. In daily use by a real lending team.
+
 **[Street Insights](https://github.com/patrickboxfordpartners/streetinsights)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/streetinsights?style=flat-square&color=58A6FF&labelColor=0d1117)  
 Stock sentiment platform that scans social media, extracts AI-analyzed predictions, and validates them against real market outcomes. Credibility-weighted source scoring so signal rises above noise.
-
-**[Market Signals](https://github.com/patrickboxfordpartners/market-signals-landing)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/market-signals-landing?style=flat-square&color=58A6FF&labelColor=0d1117)  
-Marketing and waitlist for a stock sentiment product. Astro + Tailwind + Supabase.
 
 **[API Contract Validator](https://github.com/patrickboxfordpartners/api-contract-validator)** &nbsp; ![Last commit](https://img.shields.io/github/last-commit/patrickboxfordpartners/api-contract-validator?style=flat-square&color=58A6FF&labelColor=0d1117)  
 CLI tool that validates live API responses against OpenAPI specs. Catches drift and breaking changes before they reach production.
